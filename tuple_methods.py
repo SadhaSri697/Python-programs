@@ -1,0 +1,8 @@
+num = (1,3,8,3,3,4,True)
+print(num)
+no = num.count(3)
+print(no)
+i = num.index(8)
+print(i)
+print(len(num))
+print(3 in num)

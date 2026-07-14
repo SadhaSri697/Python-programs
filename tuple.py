@@ -1,0 +1,5 @@
+a = (1, 3 ,8 ,4 , True)
+print(type(a))
+print(a)
+b = (1)
+print(type(b))
